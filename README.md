@@ -47,13 +47,5 @@ I would appreciate [Conventional Commits](https://www.conventionalcommits.org/) 
 ## Security
 Check the SECURITY file in this github repository. 
 
-## Donations
-If you wish to use another payment method please contact me!
-
-* **Bitcoin**: `bc1qqyrx74ws33w2wuumw0fdzvejgu6xlkd5tyrtx9`
-* **Litecoin**: `LXAcUVGiDp8DGMCJ5L21ExWpkuWRHxqmzM`
-* **Ethereum**: `0x4f10C214F271d969E7ff69CE73783A77dD762e2f`
-
 ## Contact Me
-* **Email**: `admin@ambrosia.club`
 * **Discord**: `zayy#4201`
