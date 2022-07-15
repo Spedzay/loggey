@@ -13,7 +13,6 @@
     If your text editor supports searching, search for inside this file:
     LoggeySettings
     Contact me:
-    - mail: admin@ambrosia.club
     - discord: on my github profile
     
     -- Begin MIT License. --
